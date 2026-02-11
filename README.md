@@ -44,8 +44,8 @@ Me dedico a extraer valor de los datos y a construir soluciones técnicas robust
 
 ### 📈 Mi actividad en GitHub
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=yonillo&show_icons=true&theme=default" alt="Yone Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonillo&layout=compact&theme=default" alt="Top Langs" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=yonillo&show_icons=true&theme=tokyonight" alt="Yone Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonillo&layout=compact&theme=tokyonight" alt="Top Langs" height="150" />
 </p>
 
 ---
