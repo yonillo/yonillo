@@ -1,19 +1,19 @@
-# ¡Hola! Soy Yone ?? 
+ï»¿# Â¡Hola! Soy Yone ğŸ‘‹ 
 
-### ?? Estudiante de Ciencia e Ingeniería de Datos | ULPGC
-Me dedico a extraer valor de los datos y a construir soluciones técnicas robustas. Mi formación combina la ingeniería de datos con la administración de sistemas y el desarrollo de software.
+### ğŸ“Š Estudiante de Ciencia e IngenierÃ­a de Datos | ULPGC
+Me dedico a extraer valor de los datos y a construir soluciones tÃ©cnicas robustas. Mi formaciÃ³n combina la ingenierÃ­a de datos con la administraciÃ³n de sistemas y el desarrollo de software.
 
 ---
 
-### ??? Tecnologías y Herramientas
+### ğŸ› ï¸ TecnologÃ­as y Herramientas
 
-**Análisis de Datos y Estadística**
+**AnÃ¡lisis de Datos y EstadÃ­stica**
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-%2300758f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white)
 
-**Sistemas y Programación Base**
+**Sistemas y ProgramaciÃ³n Base**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
@@ -26,22 +26,22 @@ Me dedico a extraer valor de los datos y a construir soluciones técnicas robusta
 
 ---
 
-### ?? Logros y Certificaciones
+### ğŸ† Logros y Certificaciones
 
-*   **[Red Hat Training: Linux Fundamentals (RH104)](https://www.credly.com/go/7z21Lbos)** (Marzo 2025) - Certificación oficial en administración de sistemas Linux.
-*   **Proyecto Destacado: Análisis del Empleo Juvenil en Europa** - Desarrollo de un dashboard interactivo en R. **Calificación: 9.0**.
+*   **[Red Hat Training: Linux Fundamentals (RH104)](https://www.credly.com/go/7z21Lbos)** (Marzo 2025) - CertificaciÃ³n oficial en administraciÃ³n de sistemas Linux.
+*   **Proyecto Destacado: AnÃ¡lisis del Empleo Juvenil en Europa** - Desarrollo de un dashboard interactivo en R. **CalificaciÃ³n: 9.0**.
 
 ---
 
-### ?? Proyectos que puedes ver en mi perfil
+### ğŸ“‚ Proyectos que puedes ver en mi perfil
 
-1.  **[youth-employment-analysis-europe](https://github.com/yonillo/youth-employment-analysis-europe)**: Mi proyecto principal de análisis de datos con R y Shiny.
-2.  **[Surf-Dashboard-gc](https://github.com/yonillo/Surf-Dashboard-gc)**: Dashboard meteorológico con Python.
+1.  **[youth-employment-analysis-europe](https://github.com/yonillo/youth-employment-analysis-europe)**: Mi proyecto principal de anÃ¡lisis de datos con R y Shiny.
+2.  **[Surf-Dashboard-gc](https://github.com/yonillo/Surf-Dashboard-gc)**: Dashboard meteorolÃ³gico con Python.
 3.  **Proyectos de Desarrollo**: Experiencia creando aplicaciones reales (e-commerce y servicios) para comercios de Agaete y alrededores.
 
 ---
 
-### ?? Mi actividad en GitHub
+### ğŸ“ˆ Mi actividad en GitHub
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=yonillo&show_icons=true&theme=default" alt="Yone Stats" height="150" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonillo&layout=compact&theme=default" alt="Top Langs" height="150" />
@@ -49,9 +49,9 @@ Me dedico a extraer valor de los datos y a construir soluciones técnicas robusta
 
 ---
 
-### ?? Contacto
-?? **Email:** [yonillo43@gmail.com](mailto:yonillo43@gmail.com)  
-?? **Localización:** Agaete, Gran Canaria  
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yone-su%C3%A1rez-viera-288214227/)
+### ğŸ“« Contacto
+ğŸ“§ **Email:** [yonillo43@gmail.com](mailto:yonillo43@gmail.com)  
+ğŸ“ **LocalizaciÃ³n:** Agaete, Gran Canaria  
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yone-suarez/)
 
 ---
