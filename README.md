@@ -1,4 +1,5 @@
-# ¡Hola! Soy Yone Suárez 👋 
+¡<img width="2501" height="998" alt="Gemini_Generated_Image_84h9hl84h9hl84h9" src="https://github.com/user-attachments/assets/03ff607c-5674-4b29-a255-5ca1aec830ca" />
+Hola! Soy Yone Suárez 👋 
 
 ### 📊 Estudiante de Ciencia e Ingeniería de Datos | ULPGC & Emprendedor Tecnológico
 Me apasiona transformar datos brutos en decisiones estratégicas y construir infraestructura digital sólida. Mi enfoque combina el rigor de la **Ingeniería de Datos** con la agilidad del **Desarrollo Web Fullstack** y la fiabilidad de la **Administración de Sistemas**.
