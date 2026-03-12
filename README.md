@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/03ff607c-5674-4b29-a255-5ca1aec830ca" alt="Yone Suarez Banner" width="100%">
-</p>
-
 # ¡Hola! Soy Yone Suárez 👋 
 
 ### 📊 Estudiante de Ciencia e Ingeniería de Datos | ULPGC & Emprendedor Tecnológico
