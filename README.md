@@ -58,8 +58,8 @@ Actualmente colaboro con negocios de **Gran Canaria** para digitalizar su presen
 
 ## 📈 Estadísticas de GitHub
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yonillo&show_icons=true&theme=tokyonight&count_private=true" alt="Yone Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonillo&layout=compact&theme=tokyonight&hide=html" alt="Top Langs" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api?username=yonillo&show_icons=true&theme=tokyonight&count_private=true" alt="Yone Stats" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yonillo&layout=compact&theme=tokyonight&hide=html" alt="Top Langs" height="170" />
 </p>
 
 ---
