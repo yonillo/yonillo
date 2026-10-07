@@ -1,72 +1,65 @@
-# ¡Hola! Soy Yone Suárez 👋 
+ <div align="center">
+      <h1>¡Hola! Soy Yone Suárez 👋</h1>
+      <h3>🚀 Data Engineer & Software Developer | ULPGC</h3>
+      <p>Construyendo arquitecturas de datos robustas y soluciones digitales en Gran Canaria 🏝️</p>
+    </div>
 
-### 📊 Estudiante de Ciencia e Ingeniería de Datos | ULPGC & Emprendedor Tecnológico
-Me apasiona transformar datos brutos en decisiones estratégicas y construir infraestructura digital sólida. Mi enfoque combina el rigor de la **Ingeniería de Datos** con la agilidad del **Desarrollo Web Fullstack** y la fiabilidad de la **Administración de Sistemas**.
+    ---
 
----
+    Me apasiona transformar datos complejos en decisiones estratégicas y construir infraestructura digital sólida y
+  escalable. Combino el rigor analítico de mi formación en **Ciencia e Ingeniería de Datos** con la agilidad y visión
+  de negocio de mi experiencia real como consultor tecnológico.
 
-## 🤝 Proyectos Reales (Casos de Éxito)
+    ### 💼 Experiencia Consultoría & Freelance
+    Actualmente gestiono la infraestructura tecnológica y los datos de varios clientes locales (ej. Plátano Loco,
+  Coordenadas Store), encargándome de:
+    - **Arquitectura & Backend:** Diseño de bases de datos relacionales, desarrollo de APIs y despliegue de
+  infraestructuras en la nube (Cloudflare, Vercel).
+    - **Data & Ops:** Extracción y estructuración de datos de ventas, automatización de procesos empresariales y
+  optimización de rendimiento.
 
-Actualmente colaboro con negocios de **Gran Canaria** para digitalizar su presencia y optimizar sus procesos.
+    ---
 
-| Cliente | Proyecto | Solución Técnica |
-| :--- | :--- | :--- |
-| **Plátano Loco** 🍌 | [platano-loco](https://github.com/yonillo/platano-loco) | E-commerce personalizado y optimización de flujo de ventas local. |
-| **Coordenadas Store** 📍 | [coordenadas-store-agaete-](https://github.com/yonillo/coordenadas-store-agaete-) | Plataforma web a medida para gestión de productos y presencia digital en Agaete. |
+    ### 💻 Proyectos Destacados
 
----
+    #### 📡 [Real-Time Satellite Monitoring (dacd-data-app)](https://github.com/OmeletCode/dacd-data-app)
+    *Sistema de monitorización en tiempo real para antenas Starlink.*
+    - **Arquitectura:** Lambda Architecture.
+    - **Stack:** Java, ActiveMQ, Grafana.
+    - **Destacado:** Procesamiento de flujos de datos en streaming y análisis predictivo de atenuación por lluvia.
 
-## 💼 Servicios Profesionales
+    #### 📊 [Análisis del Empleo Juvenil en Europa](https://github.com/yonillo/youth-employment-analysis-europe)
+    *Dashboard analítico avanzado con datos oficiales de Eurostat.* (Calificación: 9.0)
+    - **Stack:** R, Shiny, Tidyverse.
+    - **Destacado:** Implementación de modelos estadísticos de series temporales (ARIMA) y visualización geoespacial
+  (Leaflet, Plotly).
 
-| 🚀 Desarrollo Web | 📈 Data & Analytics | 🐧 Sistemas y Ops |
-| :--- | :--- | :--- |
-| **E-commerce y Apps a medida** para comercios locales. | **Dashboards interactivos** (R/Shiny, Python) para métricas. | **Administración Linux** (Red Hat) para entornos seguros. |
-| **Stack moderno:** React, TypeScript, Node.js. | **Automatización ETL:** Limpieza y flujos de datos. | **Optimización:** Mejora de rendimiento en DBs y servidores. |
+    #### ⚙️ [GC Data Hub Pipeline](https://github.com/yonillo/gc-data-hub-pipeline)
+    *Pipeline de datos automatizado.*
+    - **Stack:** Python.
+    - **Destacado:** Extracción, transformación y carga (ETL) de datos.
 
----
+    #### ⛰️ [Tenerife Conquest App](https://github.com/conquistaTenerife/tenerife-conquest-app)
+    *Aplicación gamificada para explorar y "conquistar" senderos y municipios de Tenerife.*
+    - **Stack:** Dart, Flutter.
 
-## 🛠️ Tech Stack
+    ---
 
-### **Data Science & Analytics**
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/sql-%2300758f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+    ### 🛠️ Tech Stack & Herramientas
 
-### **Systems & Backend**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    - **Data Engineering & Cloud:** Arquitectura Lambda, ActiveMQ, Grafana, ETL, Docker, Linux (Red Hat). *(Preparando
+  AWS Certifications)* ☁️
+    - **Lenguajes:** Python, Java, SQL, R, TypeScript/JavaScript 🐍☕
+    - **Data Science:** Pandas, Tidyverse, Shiny, Leaflet, Modelos Predictivos 📈
+    - **Software Architecture:** Git, Next.js, Node.js, Diseño de APIs REST ⚙️
 
----
+    ---
 
-## 🏆 Certificaciones y Destacados
+    ### 📫 Conecta conmigo
 
-* 🐧 **[Red Hat Certified: Linux Fundamentals (RH104)](https://www.credly.com/go/7z21Lbos)** - Administración profesional de sistemas Linux.
-* 📊 **Análisis del Empleo Juvenil en Europa** - Dashboard avanzado en R/Shiny. **(Calificación: 9.0)**.
-* 🏝️ **Digitalización Local**: Consultoría y desarrollo para PYMES en **Agaete**.
+    ¿Buscas optimizar tu infraestructura de datos, automatizar procesos empresariales o colaborar en proyectos cloud?
+  ¡Hablemos!
 
----
-
-## 📂 Otros Proyectos Destacados
-
-1. 📊 **[Youth Employment Analysis](https://github.com/yonillo/youth-employment-analysis-europe)**: Análisis estadístico profundo con R.
-2. 🏄 **[Surf Dashboard GC](https://github.com/yonillo/Surf-Dashboard-gc)**: Predicción meteorológica con Python.
-
----
-
-## 📈 Estadísticas de GitHub
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=yonillo&show_icons=true&theme=tokyonight&count_private=true" alt="Yone Stats" height="170" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yonillo&layout=compact&theme=tokyonight&hide=html" alt="Top Langs" height="170" />
-</p>
-
----
-
-## 📫 Conecta conmigo
-¿Buscas digitalizar tu negocio en la isla o necesitas un análisis profundo de tus datos? **¡Hablemos!**
-
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yone-suarez/)
-[![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yonillo43@gmail.com)
-📍 **Agaete, Gran Canaria**
+    - 📧 [yonesuarezviera@gmail.com](mailto:yonesuarezviera@gmail.com)
+    - 🌐 https://yonesuarez.es
+    - 💼 [LinkedIn](https://linkedin.com/in/yone-suarez)
