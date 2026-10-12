@@ -22,6 +22,11 @@
 
 ### 🚀 Featured Engineering Projects
 
+**🚌 [CanariasPulse | Multimodal Transport Analytics & Decision Engine](https://github.com/yonillo/canariaspulse)**  
+*Unified mobility platform across Gran Canaria, Tenerife, and Maritime corridors (Global, TITSA, Guaguas, Fred Olsen, Armas).*  
+- **Stack:** Python 3.13, React 19, Tailwind CSS, Leaflet, SciPy (MILP HiGHS), pgmpy (Bayesian DAG), SQLite.  
+- **Highlights:** Real-time GTFS ingestion pipeline, Bayesian arrival confidence guarantees (95% HDI), causal DAG congestion delay analysis, and fleet dispatch optimization.
+
 **📡 [Real-Time Satellite Monitoring (dacd-data-app)](https://github.com/OmeletCode/dacd-data-app)**  
 *Live Starlink telemetry ingestion & predictive rain fade analysis.*  
 - **Stack:** Java, ActiveMQ, Grafana, Docker.  
@@ -38,7 +43,7 @@
 - **Highlights:** Heuristic multi-variable decision engine, 24h golden-window forecasts, live webcam ground-truth feeds.  
 - **Live Demo:** [surf-dashboard-gc.streamlit.app](https://surf-dashboard-gc.streamlit.app/)
 
-**📊 [European Youth Employment Dynamics & ARIMA Forecasting](https://github.com/youth-employment-analysis-europe)**  
+**📊 [European Youth Employment Dynamics & ARIMA Forecasting](https://github.com/yonillo/youth-employment-analysis-europe)**  
 *Econometric analysis and demographic time-series forecasting across EU states.*  
 - **Stack:** R, Shiny, flexdashboard, Tidyverse, fpp3 (ARIMA), Leaflet.  
 - **Highlights:** Macroeconomic ARIMA projections, interactive choropleth GIS cartography, and reactive demographic filters.
@@ -57,6 +62,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%2019-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Apache%20Parquet-5B2C6F?style=for-the-badge&logo=apache&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
