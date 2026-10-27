@@ -1,38 +1,40 @@
- # Yone Suárez
+# Yone Suárez
 
-    Data Engineer & Software Developer based in Gran Canaria, Spain.
-    Currently studying Data Science & Engineering at ULPGC while working on real-world client platforms.
+Data Engineer & Software Developer · Gran Canaria, Spain  
+[LinkedIn](https://linkedin.com/in/yone-suarez) · [Website](https://yonesuarez.es) · [Email](mailto:yonesuarezviera@gmail.com)
 
-    [LinkedIn](https://linkedin.com/in/yone-suarez) · [Website](https://yonesuarez.es) ·
-    [Email](mailto:yonesuarezviera@gmail.com)
+---
 
-    ---
+### Focus
 
-    ### What I Work On
+3rd-year Data Science & Engineering student at **ULPGC**, building production systems and data pipelines.
 
-    - **Data Engineering:** Designing batch and streaming pipelines (Java, ActiveMQ, Python, Apache Parquet).
-    - **Production Systems:** Full-stack architecture with Next.js, Docker, and PostgreSQL (Supabase).
-    - **Analytics & Forecasting:** Time-series modeling (ARIMA in R) and applied optimization (MILP).
+- **Data Engineering:** Streaming and batch pipelines with Java, ActiveMQ, Python, and Apache Parquet.
+- **Production Systems:** Full-stack architecture with Next.js, Docker, and PostgreSQL (Supabase).
+- **Analytics & Optimization:** Time-series forecasting (ARIMA in R) and applied fleet optimization (SciPy MILP).
 
-    ---
+---
 
-    ### Selected Projects
+### Featured Projects
 
-    - **[CanariasPulse](https://github.com/yonillo/canariaspulse)** — Real-time GTFS transit data pipeline and fleet
-    optimization across Canary Islands bus networks. Built with Python 3.13, SQLite, SciPy, and React.
-    - **[Satellite Telemetry](https://github.com/OmeletCode/dacd-data-app)** — Prototype for real-time Starlink
-    antenna telemetry streaming and rain-fade tracking using Java 21, ActiveMQ, and Grafana.
-    - **[Fuel Data Pipeline](https://github.com/yonillo/gc-data-hub-pipeline)** — Daily automated ETL pipeline
-    ￹converting regional fuel price datasets into columnar Apache Parquet storage.
-    - **[Surf Decision GC](https://github.com/yonillo/Surf-Dashboard-gc)** — Oceanographic dashboard forecasting
-    ￹coastal conditions using Open-Meteo APIs, Streamlit, and PyDeck.
-    - **[Youth Employment Analysis](https://github.com/yonillo/youth-employment-analysis-europe)** — Econometric
-    ￹analysis and ARIMA time-series forecasting over official Eurostat microdata using R Shiny. Graded 9.0/10 at ULPGC.
+- **[CanariasPulse](https://github.com/yonillo/canariaspulse)** — Real-time GTFS transit data pipeline and fleet optimization across Canary Islands bus networks (Python 3.13, SQLite, SciPy, React 19, Leaflet).
+- **[Satellite Telemetry](https://github.com/OmeletCode/dacd-data-app)** — Prototype for real-time Starlink antenna telemetry streaming and rain-fade tracking (Java 21, ActiveMQ, Grafana, Docker, Lambda Architecture).
+- **[Fuel Data Pipeline](https://github.com/yonillo/gc-data-hub-pipeline)** — Daily automated ETL pipeline persisting regional fuel price metrics into columnar storage (Python, Pandas, Apache Parquet, GitHub Actions).
+- **[Surf Decision GC](https://github.com/yonillo/Surf-Dashboard-gc)** — Oceanographic decision dashboard forecasting coastal conditions via Open-Meteo APIs (Python, Streamlit, PyDeck, Plotly) · [Live Demo](https://surf-dashboard-gc.streamlit.app/).
+- **[Youth Employment Analysis](https://github.com/yonillo/youth-employment-analysis-europe)** — Econometric analysis and ARIMA time-series forecasting over official Eurostat microdata (R, Shiny, Tidyverse). Graded 9.0/10 at ULPGC.
 
-    ---
+---
 
-    ### Technical Tools
+### Production Work
 
-    - **Languages:** Python, SQL, Java, R, TypeScript
-    - **Data & Storage:** Apache Parquet, ActiveMQ, PostgreSQL, Supabase, SQLite
-    - **Infrastructure & Tools:** Docker, Linux (Red Hat Certified RH104), Git, Grafana
+- **Tamadaba Sport:** Headless e-commerce (Next.js 16, React 19) decoupled from Docker (WooCommerce/MySQL) with Redsys bank payments (3DES/HMAC) and batch catalog ETL.
+- **Plátano Loco:** Next.js with Supabase (PostgreSQL with Row-Level Security), Stripe integration, and search console analytics (2.5 avg position, 16.1% CTR).
+- **Coordenadas Store:** Technical SEO with Schema.org JSON-LD and programmatic sitemaps (3.3 avg position, +4,000 organic impressions).
+
+---
+
+### Technical Stack
+
+- **Languages:** Python, SQL, Java, R, TypeScript
+- **Data & Storage:** Apache Parquet, Apache ActiveMQ, PostgreSQL, Supabase, SQLite, Pandas
+- **Tools & Cloud:** Docker, Linux (Red Hat Certified RH104), Git, Grafana
